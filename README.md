@@ -2,7 +2,7 @@
 
 *English · [Español](README.es.md)*
 
-> **This project now lives in [steel-plates-quality-mlops](https://github.com/jesusgonzalezmexdata-ux/steel-plates-quality-mlops)**, which contains this Power BI and Streamlit layer (`qbi/`, `powerbi/`, `etl/`) together with the model, its evidence and the human-review triage MVP. This repository is kept read-only for reference; new work goes there.
+> **This project now lives in [steel-plates-quality-mlops](https://github.com/jesusrlgonzalez/steel-plates-quality-mlops)**, which contains this Power BI and Streamlit layer (`qbi/`, `powerbi/`, `etl/`) together with the model, its evidence and the human-review triage MVP. This repository is kept read-only for reference; new work goes there.
 
 **A decision system for quality: which defects to contain, which ones need root-cause analysis, and how reliable each conclusion is.**
 
@@ -121,7 +121,7 @@ The PBIP parameter `RutaCSV` points to the public URL of the CSV in this reposit
 - **Assumed costs, specification limit and action thresholds.** Replace them with your plant's; the Pareto order depends on them.
 - **Defect families** (Surface, Shape, Other): the analyst's grouping.
 
-The machine-learning classifier built on the same dataset is in [steel-plates-quality-mlops](https://github.com/jesusgonzalezmexdata-ux/steel-plates-quality-mlops).
+The machine-learning classifier built on the same dataset is in [steel-plates-quality-mlops](https://github.com/jesusrlgonzalez/steel-plates-quality-mlops).
 
 ---
 
