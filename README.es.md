@@ -2,7 +2,7 @@
 
 *[English](README.md) · Español*
 
-> **Este proyecto ahora vive en [steel-plates-quality-mlops](https://github.com/jesusrlgonzalez/steel-plates-quality-mlops)**, que contiene esta capa de Power BI y Streamlit (`qbi/`, `powerbi/`, `etl/`) junto con el modelo, su evidencia y el MVP de triaje de revisión humana. Este repositorio se conserva solo como referencia; el trabajo nuevo va allá.
+> **Este proyecto ahora vive en [steel-plates-quality-mlops](https://github.com/jesusrlgonzalez/steel-plates-quality-mlops)**, que contiene esta capa de Power BI y Streamlit (`qbi/`, `powerbi/`, `etl/`) junto con el modelo, su evidencia y el MVP de triaje de revisión humana. Este repositorio está archivado (solo lectura) como referencia; el trabajo nuevo va allá. Su `data/raw/steel_plates_faults.csv` sigue disponible en la misma URL raw porque `powerbi/powerquery/00_Parametros.pq` de steel-plates-quality-mlops todavía lo lee (archivo idéntico, blob Git `2fe0c39`).
 
 **Un sistema de decisión para calidad: qué defectos contener, a cuáles buscarles causa raíz y qué tan confiable es cada conclusión.**
 

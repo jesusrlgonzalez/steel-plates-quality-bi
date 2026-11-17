@@ -2,7 +2,7 @@
 
 *English · [Español](README.es.md)*
 
-> **This project now lives in [steel-plates-quality-mlops](https://github.com/jesusrlgonzalez/steel-plates-quality-mlops)**, which contains this Power BI and Streamlit layer (`qbi/`, `powerbi/`, `etl/`) together with the model, its evidence and the human-review triage MVP. This repository is kept read-only for reference; new work goes there.
+> **This project now lives in [steel-plates-quality-mlops](https://github.com/jesusrlgonzalez/steel-plates-quality-mlops)**, which contains this Power BI and Streamlit layer (`qbi/`, `powerbi/`, `etl/`) together with the model, its evidence and the human-review triage MVP. This repository is archived (read-only) for reference; new work goes there. Its `data/raw/steel_plates_faults.csv` stays available at the same raw URL because `powerbi/powerquery/00_Parametros.pq` in steel-plates-quality-mlops still reads it (identical file, Git blob `2fe0c39`).
 
 **A decision system for quality: which defects to contain, which ones need root-cause analysis, and how reliable each conclusion is.**
 
